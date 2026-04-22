@@ -53,6 +53,7 @@ const sanghel = {
 ### 🎨 Styling & UI Libraries
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -82,12 +83,14 @@ const sanghel = {
 ### 🔐 Authentication & CMS
 
 ![NextAuth](https://img.shields.io/badge/NextAuth-7C3AED?style=for-the-badge&logo=nextauth&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
 
 ### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔄 Real-time Communication
@@ -144,8 +147,9 @@ const sanghel = {
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Expense Manager**](https://github.com/Sanghel/expense-manager) | Platform to manage personal expenses and incomes | Next.js · Chakra UI · Tailwind CSS · Insforge · PostgreSQL · Google OAuth · Next Auth |
 | [**Solar System 3D**](https://github.com/Sanghel/solar-system-3d) | Interactive 3D solar system visualization with realistic planetary orbits, rotations, and textures | Three.js · React · TypeScript · Tailwind CSS |
-| [**Portfolio**](https://sanghel-portfolio.vercel.app/) | Personal portfolio — fast, accessible, fully responsive | Astro · React · TypeScript · Tailwind CSS |
+| [**Portfolio**](https://githu.com/Sanghel/sanghel-portfolio) | Personal portfolio — fast, accessible, fully responsive | Astro · React · TypeScript · Tailwind CSS |
 | **Warranty Phone** 🔒 | Phone warranty management for equipment replacements and repairs | Next.js · Ant Design · TanStack Query · NextAuth |
 | **Tickets** 🔒 | Enterprise ticket tracking for incidents and service needs | Next.js · React · Material UI · NextAuth |
 | **Single Sign-On** 🔒 | Centralized auth portal issuing tokens to multiple internal apps | Next.js · NextAuth |
